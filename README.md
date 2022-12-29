@@ -1,6 +1,6 @@
 This is an API, created to do multiple things, including: calculating complex mathematical calculations using a simple interface. 
 
-| This is hosted on Vercel and therefore cannot be possible without them :)
+> This is hosted on Vercel and therefore cannot be possible without them :)
 
 
 
